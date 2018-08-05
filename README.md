@@ -1,5 +1,7 @@
 # Browserify-TypeScript-Angular-Gulp--Boilerplate
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/Browserify-TypeScript-Angular-Gulp--Boilerplate.svg)](https://www.guardrails.io)
+
 To get started run the following commands:
 
 - npm install
